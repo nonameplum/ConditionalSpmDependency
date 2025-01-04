@@ -1,0 +1,13 @@
+*xcuserdata
+.swiftpm
+.build
+
+
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+
+**xcuserdata
+.build/
+.index-build
